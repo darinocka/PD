@@ -1,0 +1,150 @@
+body {
+    background-color: rgb(51, 29, 44);
+
+}
+.head {
+    background-color: rgb(63, 46, 62);
+    padding: 15px;
+    color: rgb(239, 225, 209);
+    font-family: 'Cutive', sans-serif;
+}
+
+.virsraksts {
+    text-align: center;
+    color: rgb(239, 225, 209);
+    font-family: 'Bevan', sans-serif;
+margin-top: 2%;
+}
+
+
+.button1 {
+    background-color: rgb(167, 130, 149); 
+    color: rgb(239, 225, 209); 
+    border: 2px solid rgb(239, 225, 209);
+    border-radius: 25%;
+    width: 170px;
+    font-family: 'Cutive', sans-serif;
+}
+
+
+.info1 {
+    height: 700px;
+    width: 300px;
+    background-color: rgb(92, 84, 112);
+    color: rgb(239, 225, 209);
+    font-family: 'Cutive', sans-serif;
+
+   
+}
+
+.info2 {
+   
+    height: 700px;
+    width: 300px;
+    background-color: rgb(71, 78, 104);
+    color: rgb(239, 225, 209);
+    font-family: 'Cutive', sans-serif;
+
+}
+
+.info3 {
+    
+        height: 700px;
+        width: 300px;
+        background-color: rgb(67, 91, 102);
+        color: rgb(239, 225, 209);
+        font-family: 'Cutive', sans-serif;
+   
+}
+
+.info4 {   
+    height: 700px;
+    width: 300px;
+    background-color: rgb(100, 14, 30);
+    color: rgb(239, 225, 209);
+    font-family: 'Cutive', sans-serif;
+
+}
+
+.container {
+width: 100%;
+margin-top: 7%;
+    display: flex;
+    flex-direction: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    
+
+}
+
+.head1 {
+background-color:rgb(145, 130, 184);
+color: rgb(239, 225, 209);
+padding: 13px;
+text-align: center;
+font-family: 'Bevan', sans-serif;
+}
+
+.head2 {
+background-color: rgb(136, 147, 189);
+color: rgb(239, 225, 209);
+padding: 13px;
+text-align: center;
+font-family: 'Bevan', sans-serif;
+}
+
+.head3 {
+background-color:rgb(110, 141, 155);
+color: rgb(239, 225, 209);
+padding: 13px;
+text-align: center;
+font-family: 'Bevan', sans-serif;
+}
+
+.head4 {
+    background-color:rgb(131, 38, 55);
+    color: rgb(239, 225, 209);
+    text-align: center;
+    font-family: 'Bevan', sans-serif;
+    }
+
+
+
+.container-fluid {
+    all: 100%;
+    background-color: rgb(167, 130, 149);
+    padding: 3%;
+    position: relative;
+    top: 150px;
+    }
+
+.foto1 {
+   height: 800px;
+margin-left: 23%;
+}
+.foto2 {
+    height: 800px;
+margin-left: 23%;
+}
+.foto3 {
+    height: 800px;
+margin-left: 23%;
+}
+
+    footer {
+        background-color: rgb(63, 46, 62);
+        padding: 8px;
+       color: rgb(239, 225, 209);
+       font-family: 'Cutive', sans-serif;
+       position: relative;
+       top: 150px;
+    }
+
+.social {
+    width: 50px;
+margin-left: 95%;
+position: relative;
+bottom: 30px;
+}
+    
